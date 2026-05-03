@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سحر الليل، عيناكِ تسرقني
+> في بحر شوقك، ناركِ تحرقني
+> خذني إليك، في حضنك أذوب
+> معك أرى شمسي ولا غروب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
