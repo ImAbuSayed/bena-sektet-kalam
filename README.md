@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bena-sektet-kalam/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Bena Sektet Kalam](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Bena Sektet Kalam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
